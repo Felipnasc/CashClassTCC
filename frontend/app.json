@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "CashClass",
+    "slug": "CashClass",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/teste-removebg-preview.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4F4F4F"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/teste-removebg-preview.png",
+        "backgroundColor": "#4F4F4F"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
